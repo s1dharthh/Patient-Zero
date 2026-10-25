@@ -1,0 +1,8 @@
+{
+  "name": "patient-zero-multiplayer-horror",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Patient Zero real-time multiplayer browser horror game",
+  "scripts": { "start": "node server/index.js", "test": "node --test server/game.test.js" },
+  "engines": { "node": ">=20" }
+}
